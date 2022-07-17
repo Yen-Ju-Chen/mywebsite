@@ -1,13 +1,13 @@
 {
-  "main.css": "/Yen-Ju-Chen/mywebsite/static/css/main.7c4ff95f.chunk.css",
-  "main.js": "/Yen-Ju-Chen/mywebsite/static/js/main.4c806f0e.chunk.js",
-  "main.js.map": "/Yen-Ju-Chen/mywebsite/static/js/main.4c806f0e.chunk.js.map",
-  "runtime~main.js": "/Yen-Ju-Chen/mywebsite/static/js/runtime~main.9200f853.js",
-  "runtime~main.js.map": "/Yen-Ju-Chen/mywebsite/static/js/runtime~main.9200f853.js.map",
-  "static/js/2.5ec21d73.chunk.js": "/Yen-Ju-Chen/mywebsite/static/js/2.5ec21d73.chunk.js",
-  "static/js/2.5ec21d73.chunk.js.map": "/Yen-Ju-Chen/mywebsite/static/js/2.5ec21d73.chunk.js.map",
-  "index.html": "/Yen-Ju-Chen/mywebsite/index.html",
-  "precache-manifest.f5ad2ed17efb10c47a2ce067241e0d7a.js": "/Yen-Ju-Chen/mywebsite/precache-manifest.f5ad2ed17efb10c47a2ce067241e0d7a.js",
-  "service-worker.js": "/Yen-Ju-Chen/mywebsite/service-worker.js",
-  "static/css/main.7c4ff95f.chunk.css.map": "/Yen-Ju-Chen/mywebsite/static/css/main.7c4ff95f.chunk.css.map"
+  "main.css": "/mywebsite/static/css/main.7c4ff95f.chunk.css",
+  "main.js": "/mywebsite/static/js/main.a032487c.chunk.js",
+  "main.js.map": "/mywebsite/static/js/main.a032487c.chunk.js.map",
+  "runtime~main.js": "/mywebsite/static/js/runtime~main.c8f25a77.js",
+  "runtime~main.js.map": "/mywebsite/static/js/runtime~main.c8f25a77.js.map",
+  "static/js/2.5ec21d73.chunk.js": "/mywebsite/static/js/2.5ec21d73.chunk.js",
+  "static/js/2.5ec21d73.chunk.js.map": "/mywebsite/static/js/2.5ec21d73.chunk.js.map",
+  "index.html": "/mywebsite/index.html",
+  "precache-manifest.f43f79039513426a7dbd84195730c247.js": "/mywebsite/precache-manifest.f43f79039513426a7dbd84195730c247.js",
+  "service-worker.js": "/mywebsite/service-worker.js",
+  "static/css/main.7c4ff95f.chunk.css.map": "/mywebsite/static/css/main.7c4ff95f.chunk.css.map"
 }
